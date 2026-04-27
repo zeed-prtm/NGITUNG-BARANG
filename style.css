@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    display: grid ;
+}
+
+#barang {
+    height: 30px;
+    width: auto;
+    margin: 10px;    
+}
+
+.tabel {
+    margin: 10px auto;
+    height: 50px;
+}
+
+.tambah {
+    margin-right: 10px;
+    border-style: groove;
+}
+
+.kurang {
+    border-style: groove;
+    margin-left: 10px;
+}
